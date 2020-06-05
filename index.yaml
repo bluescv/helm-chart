@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  micro-service:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-05T14:49:59.660448973+08:00"
+    description: A Helm chart for Kubernetes
+    digest: c9f1cd08a57b54ebfc70bea8a45967a86baf100fdea662d5bf388d6d3f5f8799
+    name: micro-service
+    urls:
+    - https://bluescv.github.io/helm-chart/micro-service-0.1.0.tgz
+    version: 0.1.0
+  nacos:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-05T14:49:59.660906829+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 804d6523a2dd2b238f8cd71965715f09af4a111e5cd4ea73e0e3a9c748dbf7b1
+    maintainers:
+    - name: arrowfeng
+    name: nacos
+    urls:
+    - https://bluescv.github.io/helm-chart/nacos-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-05T14:49:59.65990375+08:00"
